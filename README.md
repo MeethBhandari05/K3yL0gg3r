@@ -27,24 +27,24 @@ Sends the encrypted files via email to a specified address.
 
 
 
-#Setup and Configuration
+# Setup and Configuration
 Prerequisites:
 
-Python environment with required libraries installed.
+# Python environment with required libraries installed.
 Internet connection for remote access and email functionalities.
 (Optional) Virtual Private Server (VPS) for remote access installation.
 Libraries:
 
-Install necessary Python libraries using the following command:
+# Install necessary Python libraries using the following command:
 bash
 Copy code
 pip install -r requirements.txt
-Configuration:
+# Configuration:
 
 Modify the configuration variables in the script as needed (e.g., email_address, password, file_path, etc.).
 
 
-#Legal Disclaimer
+# Legal Disclaimer
 This tool is intended for educational and ethical penetration testing purposes only. Unauthorized use of this tool to compromise computer systems without explicit permission from the owner is illegal and unethical. The developers are not responsible for any misuse or damage caused by this tool.
 
 
